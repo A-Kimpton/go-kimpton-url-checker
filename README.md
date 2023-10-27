@@ -1,0 +1,1 @@
+![Label](.github/images/architecture.drawio.svg)
