@@ -1,4 +1,4 @@
-module kimpton.io/url-checker
+module go.kimpton.io/url-checker
 
 go 1.21.3
 
