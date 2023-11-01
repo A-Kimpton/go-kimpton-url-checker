@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/streadway/amqp"
-	"kimpton.io/url-checker/internal/config"
-	"kimpton.io/url-checker/internal/domain"
+	"go.kimpton.io/url-checker/internal/config"
+	"go.kimpton.io/url-checker/internal/domain"
 )
 
 var _ domain.MessageQueue = &rabbitMQ{}

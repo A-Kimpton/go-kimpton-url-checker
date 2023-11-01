@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"log"
 
-	"kimpton.io/url-checker/internal/bootstrap"
-	"kimpton.io/url-checker/internal/config"
-	"kimpton.io/url-checker/internal/domain"
-	"kimpton.io/url-checker/internal/domain/messages"
+	"go.kimpton.io/url-checker/internal/bootstrap"
+	"go.kimpton.io/url-checker/internal/config"
+	"go.kimpton.io/url-checker/internal/domain"
+	"go.kimpton.io/url-checker/internal/domain/messages"
 )
 
 func main() {

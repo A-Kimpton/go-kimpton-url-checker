@@ -3,11 +3,11 @@ package main
 import (
 	"log"
 
-	"kimpton.io/url-checker/internal/bootstrap"
-	"kimpton.io/url-checker/internal/config"
-	"kimpton.io/url-checker/internal/domain"
-	"kimpton.io/url-checker/internal/tasks"
-	"kimpton.io/url-checker/internal/workers"
+	"go.kimpton.io/url-checker/internal/bootstrap"
+	"go.kimpton.io/url-checker/internal/config"
+	"go.kimpton.io/url-checker/internal/domain"
+	"go.kimpton.io/url-checker/internal/tasks"
+	"go.kimpton.io/url-checker/internal/workers"
 )
 
 func main() {

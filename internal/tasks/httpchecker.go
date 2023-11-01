@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"kimpton.io/url-checker/internal/domain"
-	"kimpton.io/url-checker/internal/domain/messages"
+	"go.kimpton.io/url-checker/internal/domain"
+	"go.kimpton.io/url-checker/internal/domain/messages"
 )
 
 var _ domain.Task = &HTTPChecker{}

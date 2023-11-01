@@ -3,7 +3,7 @@ package workers
 import (
 	"log"
 
-	"kimpton.io/url-checker/internal/domain"
+	"go.kimpton.io/url-checker/internal/domain"
 )
 
 type MQWorker struct {
